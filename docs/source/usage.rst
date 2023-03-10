@@ -26,7 +26,7 @@ will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
 
-test::
+test:: test
 
 For example:
 
